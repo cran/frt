@@ -1,0 +1,16 @@
+37c61196a0946fa87860e2e1724622a3 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+23a5778082faed06d5f65f8db4caee62 *R/bin.R
+c81ab5629235867237db25d96e033dd9 *R/comb.R
+cc75cc67ad2c5883973f4d2d227c0e29 *R/concat.R
+e2f12114d2489a49063929acf7dbc650 *R/frt.R
+a3a8448dfac90dc5d6fb5e9fccaa8c10 *R/frt.paired.R
+ea9ea04e0017acd3e0997e64e04c615b *data/shoes.rda
+3c180ecef4d68b1fecb056fc6b62dd19 *data/tomatoes.rda
+41690636cbabae326b14aeb1c919a26c *man/bin.Rd
+ebd3af00d02ab76325155c185b86d3df *man/comb.Rd
+455b551f67f357d0909eb101f97f81d0 *man/concat.Rd
+bf45b33e1e4dfdf03776084406fd8726 *man/frt.Rd
+1c0707fad60bbdb06d7360040bd66a2a *man/frt.paired.Rd
+c3d7600bcfd5a863cadedbc849fa1a16 *man/shoes.Rd
+52ff7249b1c0f228f220919523605b95 *man/tomatoes.Rd
